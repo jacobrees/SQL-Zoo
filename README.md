@@ -1,6 +1,6 @@
 # SQL Zoo
 
-> Database project, This repo contains solutions to challenges 0-9 of https://sqlzoo.net
+> Database project, This repo contains solutions to challenges 0-9 set by https://sqlzoo.net
 
 ### Completed Solutions:
 
