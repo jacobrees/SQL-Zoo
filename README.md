@@ -22,12 +22,6 @@ In which we join two tables; game and goals. previously music tutorial
 In which we join actors to movies in the Movie Database.
 ##### 8 Using Null
 In which we look at teachers in departments. previously Scottish Parliament
-##### 8+ Numeric Examples
-In which we look at a survey and deal with some more complex calculations.
-##### 9- Window function
-In which we examine UK general election results.
-##### 9+ COVID 19
-In which we measure the impact of COVID-19
 ##### 9 Self join
 In which we join Edinburgh bus routes to Edinburgh bus routes.
 
